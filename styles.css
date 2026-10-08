@@ -12,3 +12,5 @@ html[data-theme="dark"] .type-menu,html[data-theme="dark"] .upload-box,html[data
 html[data-theme="dark"] .type-tab.active,html[data-theme="dark"] .type-tab:hover{background:var(--surface);color:var(--primary)}
 html[data-theme="dark"] .field input,html[data-theme="dark"] .field textarea,html[data-theme="dark"] .field select,html[data-theme="dark"] .option-row select{background:var(--surface2);color:var(--text);border-color:var(--line)}
 html[data-theme="dark"] footer{color:var(--muted)}
+
+.seo-intro{max-width:900px;margin:28px auto 0;padding:20px 24px;border:1px solid var(--line);border-radius:18px;background:var(--surface);color:var(--muted)}.seo-intro h2{margin:0 0 8px;color:var(--text);font-size:18px}.seo-intro p{margin:0;font-size:12px;line-height:1.7}@media(max-width:560px){.seo-intro{padding:16px;margin-top:20px}}
